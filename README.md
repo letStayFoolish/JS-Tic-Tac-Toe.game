@@ -36,7 +36,7 @@ Then Player 1 will make his/her move by playing mark “X” on this board. Then
 
 Then the program will check if Player 1 with “X” wins or Player 2 with “O” wins and that scenario will be follows: (could be vertically, horizontally or diagonally).  
 
-<p align="center"><img src="/img/xWins.png" width="400" height="200" /></p>
+<p align="center"><img src="/img/xWins.png" width="280" height="280" /></p>
 
 If none of the players win, the program will check for draw.
 
