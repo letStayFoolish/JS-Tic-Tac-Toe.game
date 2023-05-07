@@ -50,8 +50,6 @@ If none of the players win, the program will check for draw.
 
 * Javascript (simple)
 
-<p align="center"><img src="Images/EmptyBoard_highlightedButtons.png" width="280" height="280" /></p>
-
 * The game contains one button showned at the end of the game, either it is draw or win for some of the players, so that we can do restart the game and start it again. Once we click button, "restart" start playing game by clicking on the game board. Since we play first, we will be defined as Player X. 
 
 * Once the game is finished, the message will be displayed on the game screen with either the winner name (X or O) or Draw game.
